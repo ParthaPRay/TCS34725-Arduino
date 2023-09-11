@@ -30,6 +30,11 @@ This repo contains TCS34725 arduino code for measuring R, G, B, C, illuminance, 
   *  Saturation from Intensity (S_I)
 
 
+# Raw Code
+
+**TCS34725ColorValues.ino** presents the raw code.
+
+
 # Formulations
 
 The formulas are based on **https://en.wikipedia.org/wiki/HSL_and_HSV**
